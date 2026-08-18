@@ -1,0 +1,1 @@
+assets\docs\project-notes.txt:6:TODO: Add a player inventory after the initial commit.

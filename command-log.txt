@@ -1,0 +1,51 @@
+CLI FILE RESCUE COMMAND LOG
+
+Student: Yuyu Lin
+Date: August 17, 2026
+
+Paste or type the important commands you used below. Add a short explanation beside commands marked by your teacher during the mastery conference.
+
+1. ls -filter *.txt -recurse | sls -pattern "text im looking for"
+	it finds all the txt files then looks for specifically for "text im looking for" using pattern sls
+2. notepad .\name.txt
+	allows me to edit the text file without needing sc or ac easier
+3. ls -filter *what-im-looking-for -recurse -file
+	find the file names with this in it
+4. cd..
+	moves me back a directory
+5. ls
+	shows all the folders in the directory im in
+6. gc
+	gets the content of txt files
+7. ni "name"
+	creates new directory inside the directory that i am currently in called "name"
+8. ren oldname newname
+	renames file oldname to newname
+9. mkdir "string"
+	makes a directory called string
+10. cp "string"
+	makes a copy of the file you name
+11. del name
+	deletes listed item
+12. ac file.txt
+	allows you to add to the txt file
+13. sc file.txt
+	allows you to set the content of the txt file (resets what was in there)
+14. mv "string" ./dir/subdir/subsubdir
+	moves your file deeper into the folders in one command
+15. gc First# filename
+	gets the first # lines in filename
+
+One command using a relative path: cd..
+
+One command using .. in a path: mv file.txt..
+
+One find command: sls "what im looking for"
+
+One grep command: X
+
+One command using output redirection: ls -filter *.txt -recurse |
+
+One command using a pipe: ls -filter *.txt -recurse | sls -pattern "text im looking for"
+
+kramberry
